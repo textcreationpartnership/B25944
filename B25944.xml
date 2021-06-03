@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to increase trade and to advance His Majesties revenue without any hazard or charge to any body, and with apparent profit to every body by M. Lewis.</title>
+            <author>Lewis, M. (Mark), fl. 1678.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25944</idno><idno type="EEBO-CITATION">23987415</idno>
+  <idno type="VID">205660</idno>
+  <idno type="EEBO-PROQUEST">2240855798</idno>
+  
+            <idno type="STC">Wing L1846</idno>
+            <idno type="OCLC">23987415</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1704:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to increase trade and to advance His Majesties revenue without any hazard or charge to any body, and with apparent profit to every body by M. Lewis.</title>
+                  <author>Lewis, M. (Mark), fl. 1678.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Million ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXVII [1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Commodity-backed bonds --  Early works to 1800.</term>
+               <term type="topical_term">Negotiable instruments --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205660:1"/>
+            <pb facs="tcp:205660:1"/>
+            <p>PROPOSALS To increase TRADE, And to Advance His Majesties Revenue, Without any hazard or charge to any body, and with apparent profit to every body.</p>
+            <p>
+               <hi>By</hi> M. Lewis.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Million</hi> at the Sign of the <hi>Bible</hi> in <hi>Fleet-street.</hi>
+            </p>
+            <p>MDCLXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:205660:2"/>
+            <head>Proposals to increase Trade, and to Ad<g ref="char:EOLhyphen"/>vance His Majesties Revenue, without any hazard or charge to any body, and with apparent profit to every body.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL Men have not all things; therefore to a plentiful Living there is a necessity of exchan<g ref="char:EOLhyphen"/>ging one thing for another.</p>
+            <p>We do not always meet with an opportunity of exchanging what we have superfluous, for what we want; therefore necessity doth enforce us to find out some Medium of Commerce.</p>
+            <p>When this Medium grows scarce, Tra<g ref="char:EOLhyphen"/>ding will be low, and all Commodities will be cheap as at this day.</p>
+            <p>These inconveniences may be avoided, if another Medium, that costs nothing, as trans<g ref="char:EOLhyphen"/>ferrable as Money might be found out.</p>
+            <p>Credit, that shall never fail, founded upon our own Commodities, will in greater payments every way answer Money; for Mo<g ref="char:EOLhyphen"/>ney is nothing but a Medium of Commerce,
+<pb n="3" facs="tcp:205660:2"/>a Security that when we part from one thing we can spare, we may procure another thing we want, of the like value.</p>
+            <p>A plain Demonstration of this would quickly be made, if the Chamber of <hi>London</hi> should set up an Office to this purpose, which I think may be easily done in this manner.</p>
+            <p n="1">1. Convenient places must be appointed, suppose Ware-houses near the Custom-house for grosser Goods, and Stowage for fine Goods near <hi>Guild-hall.</hi>
+            </p>
+            <p n="2">2. Fitting persons must be appointed for the managing this business: These are to be of two sorts.</p>
+            <list>
+               <item>(1) Men of Estate and Reputation for ho<g ref="char:EOLhyphen"/>nesty, that shall be accountable to all persons for Goods brought into the Office, who are to Sign the Bills, and to be obliged, that all persons, depositing their Goods, shall be ju<g ref="char:EOLhyphen"/>stly and fairly dealt with.</item>
+               <item>(2) Persons must be provided of a meaner quality, subservient to these, who understand Trade, can value Goods, that shall stow Goods, keep the Ware-houses books of Account, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p n="3">3. When places are fitted, and persons provided, the Chamber declare, they are ready to receive all Goods, as Pawns, upon which they will advance Bills of Credit to
+<pb n="4" facs="tcp:205660:3"/>two thirds, three fourths, or four fifths of the value, or higher, according as the Na<g ref="char:EOLhyphen"/>ture of the Goods are. I do not see why Credit may not be raised upon Lands, where the Title is good, and upon personal Secu<g ref="char:EOLhyphen"/>rity, that is unquestionable.</p>
+            <p n="4">4. When Goods are brought in, they shall be appraised, marked, and lodged, and a Bill of Sale Registred of them in the Book, Signed and Sealed by the Deliverer, for the Offices security, and the Goods are entred Debtor.</p>
+            <p n="5">5. The Deliverer is entred Creditor, and hath a Bill of Credit payable at seven months, for which he allows three <hi>per Cent;</hi> which Credit is written off to others to whom he is or may be indebted, as things present. I think a way may be proposed, how these Bills may be given out payable at sight; but of that I shall give an account in a second Paper.</p>
+            <p n="6">6. The time for which these Goods are deposited, must be according to the Nature of them, as they are more or less perishable. that is, for one month, two, three, ten months; but not to exceed twelve months.</p>
+            <p n="7">7. The person depositing his Goods hath liberty at all times to see and sell his Goods.</p>
+            <p n="8">8. If he sells his Goods within the time li<g ref="char:EOLhyphen"/>mited, he satisfies the Office, pays Interest only
+<pb n="5" facs="tcp:205660:3"/>for the time his Goods have been there, and takes the Overplus to himself.</p>
+            <p n="9">9. If the Goods be not redeemed within the time limited, the Office sells them by the Inch of Candle, satisfies it self, and restores the Overplus to the Pawner of the Goods, unless he gives the Office new Security, they like of.</p>
+            <p n="10">10. If the party depositing his Goods be under such Circumstances, that he must have Money in Specie, (which will seldom occur) the Office will exchange his Bill into Money at four <hi>per Cent.</hi>
+            </p>
+            <p n="11">11. No Goods shall be pawn'd in this Of<g ref="char:EOLhyphen"/>fice that will not bear the Credit of Ten Pounds; but other petty Offices may be erected, subordinate to this; some of which may take in Goods under Ten Pounds, others under Five, for the benefit of the Poor, upon which Money must be advanced at such rates as may be agreed upon.</p>
+            <p n="12">12. All persons that desire it, may have Stowage for their Goods in the Ware-houses belonging to these Offices; though they do not advance Credit upon them, they will lye more conveniently for a Market, then in their own Ware-houses, because the Buyer perhaps may have occasion for Credit; the
+<pb n="6" facs="tcp:205660:4"/>Goods being there, he may easily satisfie the Seller: Suppose a Merchant lays in a Hundred Pieces of Wine, he sells them to a Vintner, that advances Credit upon them, with which he satisfies the Merchant, and takes them out of the Office, as he can clear them by Mo<g ref="char:EOLhyphen"/>ney or Credit.</p>
+            <p>Suppose a Clothier brings upon a hundred and fifty Pounds worth of Cloth which he cannot sell, he must have Money, or he can<g ref="char:EOLhyphen"/>not Trade; he brings his Goods to this Of<g ref="char:EOLhyphen"/>fice, they advance him a Bill of Credit of 100 <hi>l.</hi> two Thirds of the value, in this or the like manner.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Guild-hall Jan</hi> the 10th 1676.</head>
+                  <p>There is due unto <hi>A. B. 100 l.</hi> for Goods de<g ref="char:EOLhyphen"/>posited in the Office there, which we promise to pay at the end of Seven Months.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>C. D.</item>
+                           <item>E. F.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Clothier goes and buys such Com<g ref="char:EOLhyphen"/>modities as he wants, as Oyls, <hi>Spanish</hi> Wool, dying Stuff, <hi>&amp;c.</hi> and tells his Chapmen he will pay them with Credit in the Chamber, which all Men will accept of, rather then to make a Book Debt; nay it is better then an ordinary Citizens Bond; for it hath a sure found kept in responsible hands, it will pass
+<pb n="7" facs="tcp:205660:4"/>from one Man to another at present, because it will be Money at the time appointed; for either the Clothier hath sold his Cloth in the six months, and deposited the Money; or the Office hath sold them in the seventh month, and kept the Money; So that the Office shall always be in a condition to make payment of all Bills brought to them: This being granted, the Clothier appoints his Chapmen to meet him at the Office, and writes off so much credit from himself as sa<g ref="char:EOLhyphen"/>tisfies them, suppose to the value of fifty Pounds; fifty Pounds yet remains to this Clo<g ref="char:EOLhyphen"/>thier, which he must carry into the Country, and he is ordered by his Neighbour at home to pay it to a Silk-man in <hi>London,</hi> his Neigh<g ref="char:EOLhyphen"/>bour will give him the Money in Specie at his return; few Citizens will refuse this Cre<g ref="char:EOLhyphen"/>dit, unless they have a Chapman in the Coun<g ref="char:EOLhyphen"/>try that is a very sure Card; but admit the worst, the Silk-man refuses the Bill, the Clo<g ref="char:EOLhyphen"/>thier then sells it as he can, or at the last brings it to the Office, who gives him Money for it at four <hi>per Cent</hi> change.</p>
+            <p>When the Office is once settled, their Bills of Credit will readily change for Money, as it is at <hi>Venice,</hi> where the Bank never pays out Money, but gives Bills of Credit to those
+<pb n="8" facs="tcp:205660:5"/>interessed; which Bills will sell readily for Du<g ref="char:EOLhyphen"/>cats out of the Chest at ten <hi>per Cent</hi> exchange.</p>
+            <p>In a short time the Credit in the Bank here will be as good, if not better then Money.</p>
+            <p>
+               <hi>OBJECTIONS.</hi>
+            </p>
+            <p>Obj. 1. <hi>It is a new Whimsie.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. So were all things at their first u<g ref="char:EOLhyphen"/>sing, which <hi>Adam</hi> had not in his first Crea<g ref="char:EOLhyphen"/>tion; the Post-Office was more ridiculous then this can be, not many years since, yet now it yields a good Revenue.</p>
+            <p>
+               <hi>Ans.</hi> 2. This is not new, It is practised in our Lee-ward Islands, where the Planters bring their Goods to the Ports; when Ships are not there, they lodge them in a Ware-house, take a Bill of the Ware-house-keeper, that they have such Goods there; this Bill will pass as currently as money, so far as the Ware-house-keeper is known; much more it will do so here; their practise is an exact pattern of what I propose.</p>
+            <p>Obj. 2. <hi>No body will trust such an Office at the first setting up, till by a long tract of time people are habituated to it.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. All Men do every day trust worse Security; to be sure there is no better in <hi>England,</hi> then the whole City of <hi>London.</hi> Wise-men, that understand there is a real
+<pb n="9" facs="tcp:205660:5"/>Found, kept in good hands, will not scru<g ref="char:EOLhyphen"/>ple it; and Middle-witted Men in a little time will follow their Example.</p>
+            <p>
+               <hi>Ans.</hi> 2. If Men should be so superstiti<g ref="char:EOLhyphen"/>ously scrupulous, as not to adventure their Goods upon a Bill, they may have a Bond from the chief persons concern'd, only that will be a little more chargeable and trou<g ref="char:EOLhyphen"/>blesome.</p>
+            <p>Obj. 3. <hi>Men may be injured in their Goods, and oppressed by the persons supervising this Office.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. So they may at home by their Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p>
+               <hi>Ans.</hi> 2. They may complain to the Court of Aldermen, or may use the Law, if Co<g ref="char:EOLhyphen"/>venants be not kept.</p>
+            <p>Obj. 4. <hi>It will be troublesome to transmit Credit thus from one to another.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. It will be far more easie, then if a Man had Cash in his Chest. Suppose a Mer<g ref="char:EOLhyphen"/>chant had Credit for a Thousand Pounds here, which he is to pay to Twenty Men; he desires them all to meet him at the Office, and writes off Credit from himself to them, with more ease then he could tell the Money.</p>
+            <p>Obj. 5. <hi>It will he a discredit for a Man
+<pb n="10" facs="tcp:205660:6"/>to pledge his Goods, especially at the first set<g ref="char:EOLhyphen"/>ting up.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. If none but necessitous persons do bring in their Goods to this Office, it will be so: But the Richer Citizens, if they de<g ref="char:EOLhyphen"/>sire the flourishing of this Office, may depo<g ref="char:EOLhyphen"/>sit Goods here without any prejudice, it may be they may do it to profit, which will take off the scandall:</p>
+            <p>
+               <hi>Ans.</hi> 2. Many persons that do not need Money at all, will lay in their Goods to these Ware-houses, rather then into their own Sellars, meerly for the convenience of selling, as I have shewed in the twelfth Particular.</p>
+            <p>
+               <hi>Ans.</hi> 3. Persons of the middle sort, that are of good Credit, and in no great necessi<g ref="char:EOLhyphen"/>ty for Money, will lay in their Goods here for their profit, to have Money at three <hi>per Cent;</hi> as suppose a Merchant Lands a Cargo of three thousand Pounds worth of Goods, he lays them into these Offices, and takes Credit upon them for two thousand Pounds at three <hi>per Cent,</hi> with which he prepares for another Voyage, before his Goods brought in are sold; and so drives a double Trade with the same Stock; or the same Trade with half the Stock.</p>
+            <p>I see no reason why the <hi>East India</hi> Com<g ref="char:EOLhyphen"/>pany,
+<pb n="11" facs="tcp:205660:6"/>who now give five <hi>per Cent,</hi> may not with profit (the hinge upon which Mer<g ref="char:EOLhyphen"/>chants move) lay their Goods here, where they shall pay but three <hi>per Cent,</hi> and be dis<g ref="char:EOLhyphen"/>charged of this when they please; these things being granted it can be no discredit, being none knows who lays in Goods out of necessity, and who lays them in out of choice.</p>
+            <p>Obj. 6. <hi>The Charges will be great.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. The Interest is but three <hi>per Cent.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 2. An allowance for the Ware-house Room must be proportionable to the Goods, as they are more or less bulkie, as it is in o<g ref="char:EOLhyphen"/>ther places.</p>
+            <p>
+               <hi>Ans.</hi> 3. The apprising, registring, stowing, careful keeping from accidental dammage may be one Penny for every five Pounds.</p>
+            <p>The transmitting the Credit need not be excessive; suppose one Penny for five Pounds, for twenty five Pounds two Pence, for fifty Pounds three Pence, for a hundred Pounds four Pence; this is nothing like the bor<g ref="char:EOLhyphen"/>rowing Money of the Scrivener, where the Security is usually sealed at a Tavern, and the Borrower pays the Reckoning.</p>
+            <p>If the chief Magistrates, when they see the great benefit such Banks bring to the
+<pb n="12" facs="tcp:205660:7"/>Nation, should concern themselves in the settling of them, the Charge would be much less, and Gain greater. All beginnings are hard, and small inconveniences, for the effe<g ref="char:EOLhyphen"/>cting so great a thing, must be born: We creep before we can go.</p>
+            <p>Obj. 7. <hi>Men will have Money, and not Credit; such hath been the Custom of the Na<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Men desire Credit at <hi>Venice,</hi> (though never answered out of the Bank in Specie) rather then Money; because it is more safe, and more transferrable then Money; and so they will do here, when they know what is best, their Ease, Security and Interest will byass them to choose it; if they will have Money, they may at the Market Price.</p>
+            <p>Obj. 8. <hi>Where shall the Chamber have Money.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> All Monied Men (if they may) will lodge their Money here at three <hi>per Cent,</hi> because they can make four, five, or six <hi>per Cent</hi> by lending out these Bills upon perso<g ref="char:EOLhyphen"/>nal Security.</p>
+            <p>The benefits arising from such a Bank must needs be very great.</p>
+            <p n="1">1. The Chamber hath the Interest of whatever Credit they issue out for nothing,
+<pb n="13" facs="tcp:205660:7"/>if it should be to the value of a hundred Millions.</p>
+            <p n="2">2. The Coine of the Nation is imme<g ref="char:EOLhyphen"/>diately doubled. Monied Men will lodge their Money in these Banks at three <hi>per Cent,</hi> because they can let out their Credit at three or four <hi>per Cent</hi> again; whereas Bonds and Bills lye dead. The Chamber lets out the Money in Specie, deposited with them, which is in motion also; whereas before the Mo<g ref="char:EOLhyphen"/>ney was only the running Cash; now the Credit, founded upon this Money, is as much a running Cash, as the Money it self.</p>
+            <p n="3">3. The running Cash of the Nation will be increased, it may be a hundred-fold, an<g ref="char:EOLhyphen"/>swerable to the Credit issued out; let it be what it will, it may be a hundred Millions, and a hundred.</p>
+            <p n="4">4. The Trade of this Nation, all Manufa<g ref="char:EOLhyphen"/>ctures and Husbandry will be exceedingly increased, proportionable to the Credit rai<g ref="char:EOLhyphen"/>sed in the Office.</p>
+            <p n="5">5. The Kings Customs and Excise will be improved according to the increase of Trade.</p>
+            <p n="6">6. <hi>England,</hi> being so conveniently sci<g ref="char:EOLhyphen"/>tuated, stored with safe Harbours, and blessed with plenty of staple Commodities and Pro<g ref="char:EOLhyphen"/>visions, may become the Empory of the
+<pb n="14" facs="tcp:205660:8"/>World, when by such Offices it is supplyed with such an endless running Cash.</p>
+            <p n="7">7. Our Merchants will have Credit in for<g ref="char:EOLhyphen"/>reign Parts to buy Commodities without Money, and may engross any Commodities, as the <hi>Dutch</hi> do at present.</p>
+            <p n="8">8. Men will not be under such a necessity of selling their Goods at an under Rate for want of Money, when they may have Cre<g ref="char:EOLhyphen"/>dit upon them at three <hi>per Cent</hi> equivalent to Money, till they can light upon a Chap<g ref="char:EOLhyphen"/>man.</p>
+            <p n="9">9. Men with small Stocks may drive great Trades; as suppose a Silk-man hath one thousand Pounds, he buys Silk with it, pawns it in the Office for eight hundred; this he lays out again in Silk, and pawns that for se<g ref="char:EOLhyphen"/>ven hundred Pounds, and so downwards; by the help of these Banks he lays in four or five thousand Pounds worth of Commodi<g ref="char:EOLhyphen"/>ties with one thousand Pound of Money, and is not tied to a particular Man; he fetches out his Goods as he vends or uses them, by two, three, or five hundred Pound at a time.</p>
+            <p n="10">10. Most Men will rather deal with per<g ref="char:EOLhyphen"/>sons that have Credit in the Office, then upon their simple Credit; this is secure, that is not, as divers can tell you, who have smarted through the deceitfulness of Men.</p>
+            <pb n="15" facs="tcp:205660:8"/>
+            <p n="11">11. If all the Commodities in <hi>Europe</hi> were brought in hither, there would be no cessa<g ref="char:EOLhyphen"/>tion of Trade; for the Credit of one Com<g ref="char:EOLhyphen"/>modity would still purchase another, and what could not be spent in <hi>England,</hi> might by the Credit of other Commodities be transported to other Countries to find a Market; which now for want of Money to answer them lies rotting here.</p>
+            <p>Money being the Medium to measure all Commodities, they must lye dead till it can be applyed; a hundred Yards of Cloth is not so soon measured with one Yard-wand, as twenty Yard-wands will, being severally applied to this hundred: If twenty Pedlars stood in a Market, and had but one Yard-wand among them, one must stay upon the other to deliver their Goods, till they could have the Yard-wand to measure them out.</p>
+            <p n="12">12. The poor people, that now pay twen<g ref="char:EOLhyphen"/>ty, thirty, and forty <hi>per Cent</hi> for Goods pawned to the Brokers, (of which perhaps they are at last cheated, if they do not re<g ref="char:EOLhyphen"/>deem them at their day) may be supplied at moderate Rates by the lesser Banks, set up on purpose for their relief: If the City get no great matter by these, yet they will save, in that their Poor will be relieved, that now suffer for want of a running Cash.</p>
+            <pb n="16" facs="tcp:205660:9"/>
+            <p>In short, all Men will have profit one way or other by the accession of such vast Riches as such Banks must necessarily produce.</p>
+            <p>I hope no wise Man will slight what is tendred, because it is out of the rode of the Author: Consider a Frier found out Gun<g ref="char:EOLhyphen"/>powder, and a Souldier found out Printing.</p>
+            <p>And I think I can further demonstrate, how the Chamber may give out Bills payable at sight to what value they please, a never make default, without any Charge or hazard to any Body.</p>
+            <p>☞ Take notice that vast quantities of Linnen Cloth of all forts are brought yearly into <hi>England;</hi> as also Threds, Tapes, and Twine for Cordage of all sorts, and wrought Flax; all which doth amount to the value of twelve hundred thousand Pounds a year, and upwards: Besides Paper of all sorts, which is the Offal of Hemp and Flax.</p>
+            <p>Now to encourage the making of these Manufa<g ref="char:EOLhyphen"/>ctures in our own Kingdom, will be a ready way to employ and set at work at the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor of <hi>England,</hi> both Man, Woman and Child, that are capable and able to work.</p>
+            <p>It can be demonstrated, if desired by any publick Spirits, That a vast improvement of the Linnen Manufacture may be advanced in our own Kingdom with apparent profit to every body, and in such a Method not yet practicable in <hi>Europe:</hi> Nay in time it will four times surpass the Trade of Woollen Cloth.</p>
+            <closer>
+               <signed>M. Lewis.</signed>
+            </closer>
+            <pb facs="tcp:205660:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
